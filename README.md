@@ -2,8 +2,8 @@
 Simply javascript library for get major image meta data 
 
 ## How to use
-
-<!doctype html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript" src="../simeta.js"></script>
@@ -20,6 +20,7 @@ document.getElementById("file-input").onchange = function(e) {
 }
 </body>
 </html>
+```
 
 ## reference projects
 exif-js
