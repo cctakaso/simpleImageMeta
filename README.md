@@ -6,7 +6,7 @@ Simply javascript library for get major image meta data
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="../simeta.js"></script>
+<script type="text/javascript" src="js/simeta.js"></script>
 </head>
 
 <body>
