@@ -1,4 +1,4 @@
-# SimpleImageMeta
+# simpleImageMeta
 Simply javascript library for get major image meta data 
 
 ## How to use
