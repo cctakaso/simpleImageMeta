@@ -27,6 +27,6 @@ exif-js
 
 ## referance documents 
 CIPA DC-008-Translation-2016 Exchangeable image file format for digital still cameras : Exif Version 2.31
-http://www.cipa.jp/std/documents/e/DC-008-Translation-2016-E.pdf
+[Exif Version 2.31](http://www.cipa.jp/std/documents/e/DC-008-Translation-2016-E.pdf)
 
-http://www.cipa.jp/std/documents/j/DC-008-2012_J.pdf
+[DC-008-2012_J.pdf](http://www.cipa.jp/std/documents/j/DC-008-2012_J.pdf)
