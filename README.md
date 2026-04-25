@@ -1,5 +1,6 @@
 # simpleImageMeta
 Simply javascript library for get major image meta data 
+JPEG/PNG画像に含まれるExifメタ情報を取得確認できます。
 
 ## How to use
 ```
@@ -22,10 +23,10 @@ document.getElementById("file-input").onchange = function(e) {
 </html>
 ```
 
-## reference projects
-exif-js
-
 ## referance documents 
+カメラ映像機器工業会　CIPA規格類
+https://www.cipa.jp/j/std/std-sec.html
+
 CIPA DC-008-Translation-2016 Exchangeable image file format for digital still cameras : Exif Version 2.31
 
 [Exif Version 2.31](http://www.cipa.jp/std/documents/e/DC-008-Translation-2016-E.pdf)
